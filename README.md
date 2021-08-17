@@ -1,5 +1,9 @@
 # PyFileEncrypt
 
+## Specials
+The File Extension `.pyenc` has already been registered in <a href="https://fileinfo.com/extension/pyenc">Fileinfo.com</a>
+Huge thanks to the <a href="fileinfo.com">Fileinfo.com</a> team!
+
 ## Introduction
 
 PyFileEncrypt is a set of **Python Scripts** that can help you encrypt files such as images and videos, with the `AES 256 Encryption Algorithm`
