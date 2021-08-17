@@ -4,7 +4,7 @@
 
 PyFileEncrypt is a set of **Python Scripts** that can help you encrypt files such as images and videos, with the `AES 256 Encryption Algorithm`
 
-The **Python Scripts** uses **External Libraries** including <a href="https://github.com/marcobellaccini/pyAesCrypt">pyAesCrypt</a> and <a href="https://github.com/asweigart/stdiomask">stdiomask</a>
+The **Python Scripts** use **External Libraries** including <a href="https://github.com/marcobellaccini/pyAesCrypt">pyAesCrypt</a> and <a href="https://github.com/asweigart/stdiomask">stdiomask</a>
 
 ## Usage
 
